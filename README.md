@@ -1,16 +1,27 @@
-## Hi there 👋
+# Building with Venus Software Solutions
 
-<!--
-**venussoftwarehq/venussoftwarehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on web applications, mobile apps, and SaaS products.
 
-Here are some ideas to get you started:
+I work across frontend architecture, API integrations, and deployment, with a focus on practical software that solves real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+- Building **Invyntra**, an inventory and business management platform.
+- Developing websites, mobile apps, and custom software through **Venus Software Solutions**.
+- Exploring reusable components, developer tooling, and application architecture.
+
+## My toolkit
+
+- **Web:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Mobile:** React Native, Firebase
+- **Backend:** Node.js, Express, MongoDB
+- **Delivery:** Git, GitHub Actions, DigitalOcean
+
+## What you'll find here
+
+Selected projects, technical experiments, reusable utilities, and learning repositories.
+
+## Connect
+
+- **Product:** [Invyntra](https://www.invyntra.in/)
+- **Business enquiries:** [venus.solutions95@gmail.com](mailto:venus.solutions95@gmail.com)
